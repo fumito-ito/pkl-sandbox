@@ -1,0 +1,13 @@
+birds {
+    "pigeon"
+    "parrot"
+    "barn owl"
+    "falcon"
+}
+
+habitats {
+    ["Pigeon"] = "Streets"
+    ["Parrot"] = "Parks"
+    ["Barn owl"] = "Forests"
+    ["Falcon"] = "Mountains"
+}

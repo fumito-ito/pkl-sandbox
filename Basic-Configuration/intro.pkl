@@ -1,0 +1,4 @@
+name = "Pkl: Configure your systems in new ways"
+attendants = 100
+isInteractive = true
+amountLearned = 13.37
